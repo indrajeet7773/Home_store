@@ -1,0 +1,19 @@
+# Python __pycache__ and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Django database
+db.sqlite3
+
+# Environment variables file
+.env
+
+# Django static & media files
+/staticfiles/
+/media/
+
+# VS Code settings (optional)
+.vscode/
